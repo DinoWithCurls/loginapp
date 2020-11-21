@@ -1,6 +1,6 @@
 It is a simple login UI, made using React Native and MaterialUI.
 To run this app on your device/emulator, follow these steps:
-- <clone the repo>
+- clone the repo
 - npm install 
 - adb devices
 - npx react-native run-android
